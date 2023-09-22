@@ -1,2 +1,3 @@
 # html_project
-This repository contains web dev content
+This repository contains html content
+Author : Prikshit Sharma
